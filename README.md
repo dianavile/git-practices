@@ -14,7 +14,7 @@ Git basic workflow
 - ```git merge```
 - ```git log```
 - ```git revert```
-![Version Control]()
+![Version Control](https://github.com/dianavile/git-practices/blob/main/VersionControl.JPG)
 
 
 ## Code-boilerplates
