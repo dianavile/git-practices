@@ -3,6 +3,8 @@ Git basic workflow
 
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
+-[Git guide](https://rogerdudler.github.io/git-guide/index.es.html)
+
 ## Essential Commands
 
 - ```git init``` — Create an empty GIT repository in your development directory
