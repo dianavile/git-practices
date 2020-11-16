@@ -10,6 +10,11 @@ Git basic workflow
 - [Responsive Design](https://github.com/verekia/initializr-template)
 
 ## Essential Commands
+- ```git init```
+- ```git status```
+- ```git add```
+- ```git commit```
+
 
 
 
