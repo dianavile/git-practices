@@ -1,12 +1,7 @@
 # git-practices
-- [Git basic workflow](https://cleventy.com/que-es-git-flow-y-como-funciona/#:~:text=Es%20ah%C3%AD%20donde%20entra%20en,a%20los%20lanzamientos%20del%20proyecto.)
-
 ![Gitflow](https://github.com/dianavile/git-practices/blob/main/gitflow.JPG)
 
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
-
--[Git guide](https://rogerdudler.github.io/git-guide/index.es.html)
--[Think lika a Git](http://think-like-a-git.net/)
 
 ## Essential Commands
 
@@ -42,6 +37,11 @@ git commit –m “Description of changes being made to project”
 - ```git revert``` — Revert all files back to a previous commit point-  git revert <long commit ID from the log command>
   
 - ```rm -cache```- Removes cache from a specific file so that it can be added to the .gitignore
+
+## Git - recourses 
+- [Git basic workflow](https://cleventy.com/que-es-git-flow-y-como-funciona/#:~:text=Es%20ah%C3%AD%20donde%20entra%20en,a%20los%20lanzamientos%20del%20proyecto.)
+- [Git guide](https://rogerdudler.github.io/git-guide/index.es.html)
+- [Think lika a Git](http://think-like-a-git.net/)
 
 ## Code-boilerplates
 - [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/TOC.md)
