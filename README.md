@@ -1,5 +1,5 @@
 # git-practices
-Git basic workflow
+- [Git basic workflow](https://cleventy.com/que-es-git-flow-y-como-funciona/#:~:text=Es%20ah%C3%AD%20donde%20entra%20en,a%20los%20lanzamientos%20del%20proyecto.)
 
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
@@ -8,16 +8,16 @@ Git basic workflow
 
 ## Essential Commands
 
-- ```git init``` — Create an empty GIT repository in your development directory
-- 1) Go to directory
-- 2) git init
+ ```git init``` — Create an empty GIT repository in your development directory
+-  Go to directory
+-  git init
 
 - ```git status```— Show the current state of the repository including un-added and un-committed files
 
 - ```git add .```— Add a file to the repository staging area
-- 1) Create a file, e.g. file.txt
-- 2) git add file.txt
-- 3) Add all new or changed files to the repository staging area (the period means all)
+-  Create a file, e.g. file.txt
+- git add file.txt
+- Add all new or changed files to the repository staging area (the period means all)
 
 ```git commit –m “Initial commit”``` — Commit all changes to the repository for first time (-m means message)
 
