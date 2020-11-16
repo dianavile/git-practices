@@ -1,7 +1,7 @@
 # git-practices
 - [Git basic workflow](https://cleventy.com/que-es-git-flow-y-como-funciona/#:~:text=Es%20ah%C3%AD%20donde%20entra%20en,a%20los%20lanzamientos%20del%20proyecto.)
 
-![Gitflow]()
+![Gitflow](https://github.com/dianavile/git-practices/blob/main/gitflow.JPG)
 
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
@@ -10,9 +10,8 @@
 
 ## Essential Commands
 
- ```git init``` — Create an empty GIT repository in your development directory
--  Go to directory
--  git init
+```git init``` — Create an empty GIT repository in your development directory
+-  (Go to directory, git init)
 
 - ```git status```— Show the current state of the repository including un-added and un-committed files
 
