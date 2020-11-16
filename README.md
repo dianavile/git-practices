@@ -38,10 +38,9 @@ git commit –m “Description of changes being made to project”
 
 - ```git log``` — View commit history (including long commit ID numbers)
 
-- ```git revert``` — Revert all files back to a previous commit point
-- git revert <long commit ID from the log command>
+- ```git revert``` — Revert all files back to a previous commit point-  git revert <long commit ID from the log command>
   
-```rm -cache```- Removes cache from a specific file so that it can be added to the .gitignore
+- ```rm -cache```- Removes cache from a specific file so that it can be added to the .gitignore
 
 ## Code-boilerplates
 - [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/TOC.md)
