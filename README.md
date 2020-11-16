@@ -4,6 +4,7 @@ Git basic workflow
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
 ## Essential Commands
+![Version Control](https://github.com/dianavile/git-practices/blob/main/VersionControl.JPG)
 - ```git init```
 - ```git status```
 - ```git add```
@@ -14,8 +15,6 @@ Git basic workflow
 - ```git merge```
 - ```git log```
 - ```git revert```
-![Version Control](https://github.com/dianavile/git-practices/blob/main/VersionControl.JPG)
-
 
 ## Code-boilerplates
 - [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/TOC.md)
