@@ -4,6 +4,7 @@ Git basic workflow
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
 -[Git guide](https://rogerdudler.github.io/git-guide/index.es.html)
+-[Think lika a Git](http://think-like-a-git.net/)
 
 ## Essential Commands
 
