@@ -1,6 +1,8 @@
 # git-practices
 - [Git basic workflow](https://cleventy.com/que-es-git-flow-y-como-funciona/#:~:text=Es%20ah%C3%AD%20donde%20entra%20en,a%20los%20lanzamientos%20del%20proyecto.)
 
+![Gitflow]()
+
 ![Git practices](https://github.com/dianavile/git-practices/blob/main/Git-Github.JPG)
 
 -[Git guide](https://rogerdudler.github.io/git-guide/index.es.html)
